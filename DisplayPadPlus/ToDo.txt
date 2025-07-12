@@ -1,0 +1,37 @@
+﻿Die Todo Liste für DisplayPadPlus
+
+  Grundgerüst
+  Layers
+  HomeButton
+  Images
+  - automaticly assing Icons a Image by their action
+  REMOVED! LongPresses
+- Speichern & Laden
+- Visual click feedback
+- ProfileProblem
+- SpecialLayers
+  - SteelSeries Sonal Personal Layer
+    - Raw Funktions and desing
+    - Genneral better
+    - Better and more complicated private Version
+    - simple public Version
+  - 1 Dimentional Scrollbars
+  - 2 Dimentional Scrollbars?
+  - Number Input Layer
+- Option to lock the DisplayPad when in the Windows Lockscreen
+  - clock
+  - image
+  - both?
+- Going dark after inactivity
+  - Button lock for 1 secund after WakeUpCall
+- NO! Combo/MuntiPress
+- Password Locked Layers / Device
+- Macros
+    Keyboard shortcuts
+    Basic Macros
+  - Macros mit string (Caps sensitive or not toggle)
+  - Macro recorder and playback
+    - Delays: Keep delay, no delay, set delay to *NumberInputLayer*
+- Advanced / Multi-Clipboard
+- Switch / Toggle
+- Animations
