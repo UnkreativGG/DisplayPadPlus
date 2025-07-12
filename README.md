@@ -18,7 +18,7 @@ If you want to continue development, have fun!
 
 # Important
 
-Most of the code in `DisplayPadPlusCore/` is derived from a library originally developed by **Mountain**, released under the [MIT License](https://github.com/Mountain-BC/DisplayPad.SDK.Demo/blob/main/LICENSE).
+The `.dll` and most of the code in `DisplayPadPlusCore/` is derived from a library originally developed by **Mountain**, released under the [MIT License](https://github.com/Mountain-BC/DisplayPad.SDK.Demo/blob/main/LICENSE).
 
 This code may have been **decompiled and modified**, but I forgot how much...
 
